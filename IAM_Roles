@@ -1,0 +1,30 @@
+
+AmazonAugmentedAIFullAccess	AWS managed	
+Provides access to perform all operations Amazon Augmented AI resources, including FlowDefinitions, HumanTaskUis and HumanLoops. Does not allow access for creating FlowDefinitions against the public-crowd Workteam.
+	
+AmazonHealthLakeFullAccess	AWS managed	
+Provides full access to Amazon HealthLake service.
+	
+AmazonRekognitionFullAccess	AWS managed	
+Access to all Amazon Rekognition APIs
+	
+AmazonS3FullAccess	AWS managed	
+Provides full access to all buckets via the AWS Management Console.
+	
+AmazonSageMakerFullAccess	AWS managed	
+Provides full access to Amazon SageMaker via the AWS Management Console and SDK. Also provides select access to related services (e.g., S3, ECR, CloudWatch Logs).
+	
+AmazonSageMakerMechanicalTurkAccess	AWS managed	
+Provides access to create Amazon Augmented AI FlowDefinition resources against any Workteam.
+	
+AmazonTextractFullAccess	AWS managed	
+Access to all Amazon Textract APIs
+	
+ComprehendFullAccess	AWS managed	
+Provides full access to Amazon Comprehend.
+	
+ComprehendMedicalFullAccess	AWS managed	
+Provides full access to Amazon Comprehend Medical
+	
+TranslateFullAccess	AWS managed	
+Provides full access to Amazon Translate.

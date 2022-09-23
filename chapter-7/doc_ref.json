@@ -1,0 +1,62 @@
+{
+	"resourceType": "DocumentReference",
+	"id": "id12345",
+	"meta": {
+		"profile": ["http://hl7.org/fhir/us/core/StructureDefinition/us-core-documentreference"]
+	},
+	"identifier": [{
+		"system": "urn:ietf:rfc:3986",
+		"value": "urn:uuid:f11b9b48-ff6b-a62b-8425-037ea9c2d826"
+	}],
+	"status": "current",
+	"type": {
+		"coding": [{
+			"system": "http://loinc.org",
+			"code": "34117-2",
+			"display": "History and physical note"
+		}, {
+			"system": "http://loinc.org",
+			"code": "51847-2",
+			"display": "Evaluation+Plan note"
+		}]
+	},
+	"category": [{
+		"coding": [{
+			"system": "http://hl7.org/fhir/us/core/CodeSystem/us-core-documentreference-category",
+			"code": "clinical-note",
+			"display": "Clinical Note"
+		}]
+	}],
+	"subject": {
+		"reference": "Patient/3cedeb4b-a9b8-41d2-aef2-de4c0413ec95"
+	},
+	"date": "2022-04-13T05:07:38.982+00:00",
+	"author": [{
+		"reference": "Practitioner?identifier=http://hl7.org/fhir/sid/us-npi|9999990259",
+		"display": "Dr. Tandra334 Carter549"
+	}],
+	"custodian": {
+		"reference": "Organization?identifier=https://ocktank.com/synthetic/synthea|f7ae497d-8dc6-3721-9402-43b621a4e7d2",
+		"display": "PCP14023"
+	},
+	"content": [{
+		"attachment": {
+			"contentType": "text/plain; charset=utf-8",
+			"data": "IFRoZSBwYXRpZW50IGlzIGFuIDg2LXllYXItb2xkIGZlbWFsZSBhZG1pdHRlZCBmb3IgZXZhbHVhdGlvbiBvZiBhYmRvbWluYWwgcGFpbiBhbmQgYmxvb2R5IHN0b29scy4gVGhlIHBhdGllbnQgaGFzIGNvbGl0aXMgYW5kIGFsc28gZGl2ZXJ0aWN1bGl0aXMsIHVuZGVyZ29pbmcgdHJlYXRtZW50LiBEdXJpbmcgdGhlIGhvc3BpdGFsaXphdGlvbiwgdGhlIHBhdGllbnQgY29tcGxhaW5zIG9mIHNob3J0bmVzcyBvZiBicmVhdGgsIHdoaWNoIGlzIHdvcnNlbmluZy4gVGhlIHBhdGllbnQgdW5kZXJ3ZW50IGFuIGVjaG9jYXJkaW9ncmFtLCB3aGljaCBzaG93cyBzZXZlcmUgbWl0cmFsIHJlZ3VyZ2l0YXRpb24gYW5kIGFsc28gbGFyZ2UgcGxldXJhbCBlZmZ1c2lvbi4gVGhpcyBjb25zdWx0YXRpb24gaXMgZm9yIGZ1cnRoZXIgZXZhbHVhdGlvbiBpbiB0aGlzIHJlZ2FyZC4gQXMgcGVyIHRoZSBwYXRpZW50LCBzaGUgaXMgYW4gODYteWVhci1vbGQgZmVtYWxlLCBoYXMgbGltaXRlZCBhY3Rpdml0eSBsZXZlbC4gU2hlIGhhcyBiZWVuIGhhdmluZyBzaG9ydG5lc3Mgb2YgYnJlYXRoIGZvciBtYW55IHllYXJzLiBTaGUgYWxzbyB3YXMgdG9sZCB0aGF0IHNoZSBoYXMgYSBoZWFydCBtdXJtdXIsIHdoaWNoIHdhcyBub3QgZm9sbG93ZWQgdGhyb3VnaCBvbiBhIHJlZ3VsYXIgYmFzaXMu"
+		},
+		"format": {
+			"system": "http://ihe.net/fhir/ValueSet/IHE.FormatCode.codesystem",
+			"code": "urn:ihe:iti:xds:2017:mimeTypeSufficient",
+			"display": "mimeType Sufficient"
+		}
+	}],
+	"context": {
+		"encounter": [{
+			"reference": "Encounter/98309c16-75dd-8780-4bab-2d2788f7f885"
+		}],
+		"period": {
+			"start": "2022-04-13T05:07:38+00:00",
+			"end": "2022-04-13T05:22:38+00:00"
+		}
+	}
+}

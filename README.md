@@ -21,7 +21,7 @@ This book covers the following exciting features:
 * Determine how to apply business rules in IDP
 * Build, train, and deploy models with serverless architecture for IDP
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/<10P ISBN>) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801810567) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
@@ -30,8 +30,10 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-<Any code block from the book>
-
+chapter2_syncdensedoc = "syncdensetext.png"
+display(Image(url=s3.generate_presigned_url('get_
+object', Params={'Bucket': s3BucketName, 'Key': chapter2_
+syncdensedoc})))
 ```
 
 **Following is what you need for this book:**
@@ -43,16 +45,17 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-|  		   |   							                                            			  | Windows, Mac OS X, and Linux (Any) |
-|          |   																					  |                                    |
+|  		1-10 | Sign-up with an AWS account   							                                            			  | Windows OS |
+|     1-10 | Access to a web browser to access AWS
+1-10|    Python                                |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/2mHlD).
 
 
 ### Related products <Other books you may enjoy>
-* <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Practical Deep Learning at Scale with MLflow [[Packt]](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333) [[Amazon]](https://www.amazon.com/dp/1803241330)
 
-* <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Machine Learning on Kubernetes [[Packt]](https://www.packtpub.com/product/machine-learning-on-kubernetes/9781803241807?_ga=2.221960350.76977997.1664775610-1347501151.1654864057) [[Amazon]](https://www.amazon.com/dp/1803241802)
 
 ## Get to Know the Author(s)
 **Sonali Sahu** is a leading Intelligent Document Processing Artificial Intelligence (AI) and Machine Learning (ML) solutions architect on the team at Amazon Web Services. She is a passionate technophile and enjoys working with customers to solve complex problems using innovation. Her core area of focus is AI and ML. She has both breadth and depth of experience working with technology, with industry expertise in healthcare and insurance. She has significant architecture and management experience in delivering large-scale programs across various industries and platforms.

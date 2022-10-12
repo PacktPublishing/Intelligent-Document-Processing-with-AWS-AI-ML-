@@ -46,8 +46,8 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  		1-10 | Sign-up with an AWS account   							                                            			  | Windows OS |
-|     1-10 | Access to a web browser to access AWS
-|1-10|    Python                                |
+|     1-10 | Access to a web browser to access AWS                                  | Windows OS |
+|1-10      |    Python                                                               | Windows OS |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/2mHlD).
 

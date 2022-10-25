@@ -1,8 +1,8 @@
-# Intelligent-Document-Processing-with-AWS-AI-ML-
+# Intelligent-Document-Processing-with-AWS-AI/ML
 
 <a href="https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562"><img src="https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562" height="256px" align="right"></a>
 
-This is the code repository for [Intelligent Document Processing with AWS AI/ML](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Intelligent Document Processing with AWS AI/ML](https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562), published by Packt.
 
 **A comprehensive guide to building IDP pipelines with applications across industries**
 
@@ -31,9 +31,11 @@ All of the code is organized into folders.
 The code will look like the following:
 ```
 chapter2_syncdensedoc = "syncdensetext.png"
-display(Image(url=s3.generate_presigned_url('get_
-object', Params={'Bucket': s3BucketName, 'Key': chapter2_
-syncdensedoc})))
+display(Image(url=s3.generate_presigned_url(
+    'get_object', Params={
+        'Bucket': s3BucketName, 'Key': chapter2_syncdensedoc
+    })
+ ))
 ```
 
 **Following is what you need for this book:**

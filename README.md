@@ -1,6 +1,6 @@
 # Intelligent-Document-Processing-with-AWS-AI/ML
 
-<a href="https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562"><img src="https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562"><img src="https://static.packt-cdn.com/products/9781801810562/cover/smaller" alt="Intelligent Document Processing with AWS AI/ML" height="256px" align="right"></a>
 
 This is the code repository for [Intelligent Document Processing with AWS AI/ML](https://www.packtpub.com/product/intelligent-document-processing-with-aws-aiml/9781801810562), published by Packt.
 

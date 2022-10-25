@@ -60,3 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author(s)
 **Sonali Sahu** is a leading Intelligent Document Processing Artificial Intelligence (AI) and Machine Learning (ML) solutions architect on the team at Amazon Web Services. She is a passionate technophile and enjoys working with customers to solve complex problems using innovation. Her core area of focus is AI and ML. She has both breadth and depth of experience working with technology, with industry expertise in healthcare and insurance. She has significant architecture and management experience in delivering large-scale programs across various industries and platforms.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801810562">https://packt.link/free-ebook/9781801810562 </a> </p>

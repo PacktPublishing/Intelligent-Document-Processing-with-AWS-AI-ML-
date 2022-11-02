@@ -59,7 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Machine Learning on Kubernetes [[Packt]](https://www.packtpub.com/product/machine-learning-on-kubernetes/9781803241807?_ga=2.221960350.76977997.1664775610-1347501151.1654864057) [[Amazon]](https://www.amazon.com/dp/1803241802)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Sonali Sahu** is a leading Intelligent Document Processing Artificial Intelligence (AI) and Machine Learning (ML) solutions architect on the team at Amazon Web Services. She is a passionate technophile and enjoys working with customers to solve complex problems using innovation. Her core area of focus is AI and ML. She has both breadth and depth of experience working with technology, with industry expertise in healthcare and insurance. She has significant architecture and management experience in delivering large-scale programs across various industries and platforms.
 
 ### Download a free PDF
